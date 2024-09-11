@@ -1,2 +1,3 @@
-#simple calculator
-This is the final project completed under "Foundation" Course @Theodinproject.
+# Simple Calculator
+
+A simple calculator built using HTML, CSS, and JavaScript.
